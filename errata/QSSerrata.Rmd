@@ -6,7 +6,6 @@ author:
   - Kosuke Imai
 date: "8/21/2017"
 output:
-  html_document: default
   pdf_document: default
 ---
 
