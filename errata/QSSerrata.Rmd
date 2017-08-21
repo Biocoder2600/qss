@@ -78,8 +78,7 @@ mean(result.switch == "car")
 
 $$\mathbb{E}(\overline{X}_n) = \mathbb{E}\left(\frac{1}{n} \sum_{i=1}^n {\color{red}{X_i}}\right)  = \frac{1}{n}\sum_{i=1}^n \mathbb{E}(X_i) = \mathbb{E}(X)$$
 
-* pages 305 - 306.  For the reason stated above, it is more instructive to increase the size parameter in Binomial distribution (which improves the CLT approximation) rather than to increase the number of Monte Carlo simulations (which reduces the Monte Carlo error).
-
+* page 305.  Add a footnote to the end of the last paragraph whose last sentence ends with "approximated by the standard normal distribution."  The footnote to be added is "If one wishes to illustrate the quincunx through Monte Carlo simulations, we sample from the Bernoulli distribution or equivalently the Binomial distribution with size $n = 1$."
 
 # Chapter 7
 
